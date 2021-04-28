@@ -30,34 +30,23 @@ function HomePage() {
 
                                 <p>
                                     BiMaçVar! projesinde Co-founder olarak yer almaktayım. Aynı zamanda tasarım, front-end kodlama ve satış-pazarlama kısımlarında aktif rol almaktayım.
-                                    Şu an profesyonel bir ekiple Ternego adındaki sinema sektörü için bir mobil uygulama projesine Co-founder olarak yer almaktayım.
+                                    Şu an yeni bir ekiple Ternego adındaki sinema sektörü için bir mobil uygulama projesine Co-founder olarak yer almaktayım.
                                     full-stack developer ve satış-pazarlama kısımlarında aktif rol alıyorum.
                                 </p>
 
                                 <p>
                                     Bu projelerin pazarlama kısmında bir çok önemli bağlantı edindim.
                                     Yönetici seviyesinde bir çok insanla görüşme ve fikir alışverişinde bulunma şansı elde ettim.
-                                    Bu projelerden öğrendiğim pazarlama, iletişim kurma ve ikna becerilerimi daha da geliştirmek için uğraşıyorum.
+                                    Bu projelerden öğrendiğim pazarlama, iletişim kurma, insan ilişkilerindeki tavrım,
+                                    ikna kabiliyetim ve ekip uyumum ile çok yönlü bir kişilik kazanmaya ve bu becerilerimi
+                                    günden güne artırmaya çalışıyorum.
                                 </p>
 
                                 <p>
                                     Bunların yanı sıra JavaScript öğrenme sürecim şu an başlangıç aşamasında ve devam etmekte.
-                                    Front-end ve Back-end kısmındaki bilgimi artırmak ve Flutter alanında kendimi geliştirmek istiyorum.
-                                    Bunların yanı sıra insan ilişkilerindeki becerim, ikna kabiliyetim ve ekip uyumum ile çok yönlü bir kişilik kazanmaya
-                                    ve bu becerilerimi günden güne artırmaya çalışıyorum.
+                                    Front-end ve Back-end kısmındaki bilgimi artırarak JavaScript ve Flutter alanında kendimi geliştirmek istiyorum.
                                 </p>
-                                <p>
-                                    Bunların yanı sıra JavaScript öğrenme sürecim şu an başlangıç aşamasında ve devam etmekte.
-                                    Front-end ve Back-end kısmındaki bilgimi artırmak ve Flutter alanında kendimi geliştirmek istiyorum.
-                                    Bunların yanı sıra insan ilişkilerindeki becerim, ikna kabiliyetim ve ekip uyumum ile çok yönlü bir kişilik kazanmaya
-                                    ve bu becerilerimi günden güne artırmaya çalışıyorum.
-                                </p>
-                                <p>
-                                    Bunların yanı sıra JavaScript öğrenme sürecim şu an başlangıç aşamasında ve devam etmekte.
-                                    Front-end ve Back-end kısmındaki bilgimi artırmak ve Flutter alanında kendimi geliştirmek istiyorum.
-                                    Bunların yanı sıra insan ilişkilerindeki becerim, ikna kabiliyetim ve ekip uyumum ile çok yönlü bir kişilik kazanmaya
-                                    ve bu becerilerimi günden güne artırmaya çalışıyorum.
-                                </p>
+
                             </div>
                         </div>
                     </div>
